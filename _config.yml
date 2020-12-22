@@ -1,1 +1,3 @@
-theme: jekyll-theme-leonids
+git clone https://github.com/renyuanz/leonids
+cd leonids
+jekyll server
